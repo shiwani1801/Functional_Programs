@@ -10,7 +10,7 @@ public class PrimeFactor {
             int n = scan.nextInt();
 
             for (int i=2; i<n;i++){
-                while (n%i==0){
+                while (n%i == 0){
                     System.out.println(i+" ");
                     n=n/i;
             }
