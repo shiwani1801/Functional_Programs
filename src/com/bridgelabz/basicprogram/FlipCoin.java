@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class FlipCoin {
     public static void main(String[] args) {
         int  head_coin = 0, tail_coin = 0;
-        double head, tail,n;
+        double head, tail,n ;
         Scanner scan = new Scanner(System.in);
         System.out.println("enter no. of times you want to flip the coin:");
         n = scan.nextInt();
