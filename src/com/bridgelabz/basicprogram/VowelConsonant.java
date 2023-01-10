@@ -1,7 +1,7 @@
 package com.bridgelabz.basicprogram;
 public class VowelConsonant {
     public static void main(String[] args) {
-        String c ="e";
+        String c = "e";
 
         switch(c) {
             case "a":
