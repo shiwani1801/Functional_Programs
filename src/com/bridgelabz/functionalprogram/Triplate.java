@@ -25,7 +25,7 @@ public class Triplate {
             }
 
         }
-        System.out.println("totai pair are =  " + count);
+        System.out.println("total pair are =  " + count);
     }
 
     public static void main(String[] args) {
