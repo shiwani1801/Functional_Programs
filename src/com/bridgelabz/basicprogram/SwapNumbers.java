@@ -8,9 +8,9 @@ public class SwapNumbers {
         x=scan.nextInt();
         y=scan.nextInt();
         System.out.println("before swap no:"+x+" "+y);
-        temp=x;
-        x=y;
-        y=temp;
+        temp = x;
+        x = y;
+        y = temp;
         System.out.println("after swap no:"+x+" "+y);
 
     }
