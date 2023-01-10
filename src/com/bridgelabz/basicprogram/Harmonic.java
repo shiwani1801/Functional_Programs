@@ -4,7 +4,7 @@ public class Harmonic {
     public static void main(String[] args) {
         double result=0;
         double j;
-        System.out.println("enter the no.");
+        System.out.println("enter the no.=");
         Scanner scan = new Scanner(System.in);
         int num=scan.nextInt();
         for (j=1;j<=num;j++){
