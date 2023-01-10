@@ -14,7 +14,7 @@ public class WindChill {
                     System.out.println("enter correct input");
                 }else{
                     System.out.println("your input is correct");
-                    System.out.println("windchill="+windChill);
+                    System.out.println("windchill = " + windChill);
                 }
                 System.out.println("given temperature of" + t + "Fahrenheit"+"and the wind speed of " + v + "mph");
 
